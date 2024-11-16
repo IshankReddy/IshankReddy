@@ -1,10 +1,9 @@
 <h1 align="center">Hi 👋, I'm Ishank Reddy</h1>
-<br>
 <h3 align="center">A passionate Full-Stack & AI developer from India</h3>
 
 - 🔭 I’m currently working on **a Full-Stack Project**
 
-- 🌱 I’m currently learning **React Navite, Next.js and Machine Learing**
+- 🌱 I’m currently learning **React Native, Next.js and Machine Learning**
 
 - 💬 Ask me about **Python, JS, Postgres SQL**
 
