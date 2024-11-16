@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ishank Reddy</h1>
+<br>
 <h3 align="center">A passionate Full-Stack & AI developer from India</h3>
 
 - 🔭 I’m currently working on **a Full-Stack Project**
