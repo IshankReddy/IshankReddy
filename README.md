@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **a Full-Stack Projects**
 
-- 🌱 I’m currently learning **React Native, Next.js and Machine Learing**
+- 🌱 I’m currently learning **React Native, Next.js and Machine Learning**
 
 - 🤝 I’m looking for help with **React Native**
 
