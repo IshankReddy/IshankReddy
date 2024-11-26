@@ -20,7 +20,7 @@
 ### 🌐 Let's Connect:
 
 <p align="center">
-  <a href="https://www.youtube.com/c/kaviwebdesign" target="_blank">
+  <a href="https://www.youtube.com/channel/UCGvNdo-r87Q12zW2MK01BFw" target="_blank">
     <img src="https://img.shields.io/badge/YouTube-KaviWebDesign-red?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube">
   </a>
   <a href="mailto:ishankreddy2608@gmail.com" target="_blank">
@@ -29,7 +29,7 @@
   <a href="https://www.linkedin.com/in/ishankreddy" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Ishank%20Reddy-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <a href="https://github.com/ishankreddy" target="_blank">
+  <a href="https://github.com/IshankReddy" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-Ishank%20Reddy-black?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
   </a>
 </p>
