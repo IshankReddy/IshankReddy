@@ -1,23 +1,23 @@
 <h1 align="center">Hi 👋, I'm Ishank Reddy</h1>
-<h3 align="center">🚀 Passionate Full-Stack & AI Developer from India 🌏</h3>
+<h3 align="center">🌟 Full-Stack Developer & AI Enthusiast from India 🌏</h3>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="300"/>
+  <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="300" alt="Coding animation"/>
 </p>
 
 ---
 
-### 👨‍💻 About Me:
+### 🚀 About Me:
 
 - 🔭 I’m currently working on **exciting Full-Stack projects**  
 - 🌱 I’m learning **React Native, Next.js, and Machine Learning**  
-- 🤝 I’m looking for collaboration on **React Native projects**  
+- 🤝 Open to collaboration on **React Native projects**  
 - 💬 Ask me about **Python, JavaScript, PostgreSQL, and AI development**  
-- 📫 Reach me at: **ishankreddy2608@gmail.com**  
+- 📫 Contact me: **ishankreddy2608@gmail.com**  
 
 ---
 
-### 🌐 Connect with Me:
+### 🌐 Let's Connect:
 
 <p align="center">
   <a href="https://www.youtube.com/c/kaviwebdesign" target="_blank">
@@ -30,7 +30,7 @@
 
 ---
 
-### 🛠️ Languages and Tools:
+### 🛠️ Skills & Tools:
 
 <p align="center">
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
@@ -67,23 +67,23 @@
 
 ---
 
-### 📊 GitHub Stats:
+### 📈 My GitHub Stats:
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ishankreddy&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ishankreddy&show_icons=true&theme=default" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ishankreddy&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ishankreddy&theme=default" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ishankreddy&show_icons=true&theme=radical&layout=compact" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ishankreddy&show_icons=true&theme=default&layout=compact" alt="Top Languages" />
 </p>
 
 ---
 
-### 🚀 Fun Fact:
+### 🎯 Fun Fact:
 🌟 When I’m not coding, you’ll find me reading 📚, exploring tech innovations 🚀, or brainstorming my next project idea!  
 
 ---
