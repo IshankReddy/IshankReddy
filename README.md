@@ -26,7 +26,7 @@
   <a href="mailto:ishankreddy2608@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
-  <a href="https://www.linkedin.com/in/ishankreddy" target="_blank">
+  <a href="https://www.linkedin.com/in/ishank-reddy-0bb97133a/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Ishank%20Reddy-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   <a href="https://github.com/IshankReddy" target="_blank">
