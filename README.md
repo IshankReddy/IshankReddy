@@ -14,7 +14,7 @@
 <h2 align="center">About Me 👨‍💻</h2>
 
 <div align="center">
-  <p>Full-Stack Developer and AI enthusiast passionate about creating innovative solutions</p>
+  <p>Full-Stack Developer and Gen AI enthusiast passionate about creating innovative solutions</p>
 </div>
 
 <div align="center">
